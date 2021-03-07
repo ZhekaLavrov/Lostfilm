@@ -1,0 +1,2397 @@
+[
+  {
+    "link_name": "11-22-63",
+    "name_ru": "11.22.63",
+    "name_en": "11.22.63"
+  },
+  {
+    "link_name": "12_Monkeys",
+    "name_ru": "12 обезьян",
+    "name_en": "12 Monkeys"
+  },
+  {
+    "link_name": "13_Reasons_Why",
+    "name_ru": "13 причин почему",
+    "name_en": "13 Reasons Why"
+  },
+  {
+    "link_name": "The_4400",
+    "name_ru": "4400",
+    "name_en": "The 4400"
+  },
+  {
+    "link_name": "50_States_of_Fright",
+    "name_ru": "50 штатов страха",
+    "name_en": "50 States of Fright"
+  },
+  {
+    "link_name": "666_Park_Avenue",
+    "name_ru": "666 Парк авеню",
+    "name_en": "666 Park Avenue"
+  },
+  {
+    "link_name": "9-1-1",
+    "name_ru": "9-1-1",
+    "name_en": "9-1-1"
+  },
+  {
+    "link_name": "9_1_1_Lone_Star",
+    "name_ru": "9-1-1: Одинокая звезда",
+    "name_en": "9-1-1: Lone Star"
+  },
+  {
+    "link_name": "BH90210",
+    "name_ru": "90210",
+    "name_en": "BH90210"
+  },
+  {
+    "link_name": "The_Outpost",
+    "name_ru": "Аванпост",
+    "name_en": "The Outpost"
+  },
+  {
+    "link_name": "Agent_Carter",
+    "name_ru": "Агент Картер",
+    "name_en": "Agent Carter"
+  },
+  {
+    "link_name": "Agents_of_SHIELD",
+    "name_ru": "Агенты Щ.И.Т.",
+    "name_en": "Agents of S.H.I.E.L.D."
+  },
+  {
+    "link_name": "Hell_on_Wheels",
+    "name_ru": "Ад на колесах",
+    "name_en": "Hell on Wheels"
+  },
+  {
+    "link_name": "The_Umbrella_Academy",
+    "name_ru": "Академия «Амбрелла»",
+    "name_en": "The Umbrella Academy"
+  },
+  {
+    "link_name": "Deadly_Class",
+    "name_ru": "Академия смерти",
+    "name_en": "Deadly Class"
+  },
+  {
+    "link_name": "The_Alienist",
+    "name_ru": "Алиенист",
+    "name_en": "The Alienist"
+  },
+  {
+    "link_name": "Alice_in_Borderland",
+    "name_ru": "Алиса в Пограничье",
+    "name_en": "Alice in Borderland"
+  },
+  {
+    "link_name": "Alcatraz",
+    "name_ru": "Алькатрас",
+    "name_en": "Alcatraz"
+  },
+  {
+    "link_name": "American_Crime_Story",
+    "name_ru": "Американская история преступлений",
+    "name_en": "American Crime Story"
+  },
+  {
+    "link_name": "American_Horror_Story",
+    "name_ru": "Американская история ужасов",
+    "name_en": "American Horror Story"
+  },
+  {
+    "link_name": "Modern_Family",
+    "name_ru": "Американская семейка",
+    "name_en": "Modern Family"
+  },
+  {
+    "link_name": "American_Gods",
+    "name_ru": "Американские боги",
+    "name_en": "American Gods"
+  },
+  {
+    "link_name": "Andromeda",
+    "name_ru": "Андромеда",
+    "name_en": "Andromeda"
+  },
+  {
+    "link_name": "Wu_Assassins",
+    "name_ru": "Ассасины Ву",
+    "name_en": "Wu Assassins"
+  },
+  {
+    "link_name": "Gangs_of_London",
+    "name_ru": "Банды Лондона",
+    "name_en": "Gangs of London"
+  },
+  {
+    "link_name": "Narcos",
+    "name_ru": "Барыги",
+    "name_en": "Narcos"
+  },
+  {
+    "link_name": "Narcos_Mexico",
+    "name_ru": "Барыги: Мексика",
+    "name_en": "Narcos: Mexico"
+  },
+  {
+    "link_name": "Battle_Creek",
+    "name_ru": "Батл Крик",
+    "name_en": "Battle Creek"
+  },
+  {
+    "link_name": "Beverly_Hills_90210",
+    "name_ru": "Беверли-Хиллз 90210",
+    "name_en": "Beverly Hills, 90210"
+  },
+  {
+    "link_name": "The_Fugitive",
+    "name_ru": "Беглец",
+    "name_en": "The Fugitive"
+  },
+  {
+    "link_name": "Runaways",
+    "name_ru": "Беглецы",
+    "name_en": "Runaways"
+  },
+  {
+    "link_name": "BrainDead",
+    "name_ru": "Безмозглые",
+    "name_en": "BrainDead"
+  },
+  {
+    "link_name": "The_Librarians",
+    "name_ru": "Библиотекари",
+    "name_en": "The Librarians"
+  },
+  {
+    "link_name": "Good_Omens",
+    "name_ru": "Благие знамения",
+    "name_en": "Good Omens"
+  },
+  {
+    "link_name": "The_Pale_Horse",
+    "name_ru": "Бледный конь",
+    "name_en": "The Pale Horse"
+  },
+  {
+    "link_name": "Prodigal_Son",
+    "name_ru": "Блудный сын",
+    "name_en": "Prodigal Son"
+  },
+  {
+    "link_name": "Are_You_Afraid_of_the_Dark",
+    "name_ru": "Боишься ли ты темноты?",
+    "name_en": "Are You Afraid of the Dark?"
+  },
+  {
+    "link_name": "Fear_the_Walking_Dead",
+    "name_ru": "Бойтесь ходячих мертвецов",
+    "name_en": "Fear the Walking Dead"
+  },
+  {
+    "link_name": "Swamp_Thing",
+    "name_ru": "Болотная тварь",
+    "name_en": "Swamp Thing"
+  },
+  {
+    "link_name": "Snatch",
+    "name_ru": "Большой куш",
+    "name_en": "Snatch"
+  },
+  {
+    "link_name": "The_Borgias",
+    "name_ru": "Борджиа",
+    "name_en": "The Borgias"
+  },
+  {
+    "link_name": "The_Hardy_Boys",
+    "name_ru": "Братья Харди",
+    "name_en": "The Hardy Boys"
+  },
+  {
+    "link_name": "Britannia",
+    "name_ru": "Британия",
+    "name_en": "Britannia"
+  },
+  {
+    "link_name": "Penny_Dreadful",
+    "name_ru": "Бульварные ужасы",
+    "name_en": "Penny Dreadful"
+  },
+  {
+    "link_name": "Penny_Dreadful_City_of_Angels",
+    "name_ru": "Бульварные ужасы: Город ангелов",
+    "name_en": "Penny Dreadful: City of Angels"
+  },
+  {
+    "link_name": "La_Casa_de_Papel",
+    "name_ru": "Бумажный дом",
+    "name_en": "La Casa de Papel"
+  },
+  {
+    "link_name": "Being_Human",
+    "name_ru": "Быть человеком",
+    "name_en": "Being Human"
+  },
+  {
+    "link_name": "Batwoman",
+    "name_ru": "Бэтвумен",
+    "name_en": "Batwoman"
+  },
+  {
+    "link_name": "Into_the_Badlands",
+    "name_ru": "В пустыне смерти",
+    "name_en": "Into the Badlands"
+  },
+  {
+    "link_name": "Its_Always_Sunny_in_Philadelphia",
+    "name_ru": "В Филадельфии всегда солнечно",
+    "name_en": "It's Always Sunny in Philadelphia"
+  },
+  {
+    "link_name": "Babylon_5",
+    "name_ru": "Вавилон 5",
+    "name_en": "Babylon 5"
+  },
+  {
+    "link_name": "V_Wars",
+    "name_ru": "Вампирские войны",
+    "name_en": "V Wars"
+  },
+  {
+    "link_name": "Van_Helsing",
+    "name_ru": "Ван Хельсинг",
+    "name_en": "Van Helsing"
+  },
+  {
+    "link_name": "WandaVision",
+    "name_ru": "ВандаВижен",
+    "name_en": "WandaVision"
+  },
+  {
+    "link_name": "Barbaren",
+    "name_ru": "Варвары",
+    "name_en": "Barbaren"
+  },
+  {
+    "link_name": "Your_Honor",
+    "name_ru": "Ваша честь",
+    "name_en": "Your Honor"
+  },
+  {
+    "link_name": "Away",
+    "name_ru": "Вдали",
+    "name_en": "Away"
+  },
+  {
+    "link_name": "The_Witcher",
+    "name_ru": "Ведьмак",
+    "name_en": "The Witcher"
+  },
+  {
+    "link_name": "Witches_of_East_End",
+    "name_ru": "Ведьмы Ист-Энда",
+    "name_en": "Witches of East End"
+  },
+  {
+    "link_name": "The_Great",
+    "name_ru": "Великая",
+    "name_en": "The Great"
+  },
+  {
+    "link_name": "Vienna_Blood",
+    "name_ru": "Венская кровь",
+    "name_en": "Vienna Blood"
+  },
+  {
+    "link_name": "Believe",
+    "name_ru": "Верь",
+    "name_en": "Believe"
+  },
+  {
+    "link_name": "Forever",
+    "name_ru": "Вечность",
+    "name_en": "Forever"
+  },
+  {
+    "link_name": "Raised_by_Wolves",
+    "name_ru": "Взращённые волками",
+    "name_en": "Raised by Wolves"
+  },
+  {
+    "link_name": "See",
+    "name_ru": "Видеть",
+    "name_en": "See"
+  },
+  {
+    "link_name": "Altered_Carbon",
+    "name_ru": "Видоизмененный углерод",
+    "name_en": "Altered Carbon"
+  },
+  {
+    "link_name": "V",
+    "name_ru": "Визитеры",
+    "name_en": "V"
+  },
+  {
+    "link_name": "Vikings",
+    "name_ru": "Викинги",
+    "name_en": "Vikings"
+  },
+  {
+    "link_name": "Whiskey_Cavalier",
+    "name_ru": "Виски Кавалер",
+    "name_en": "Whiskey Cavalier"
+  },
+  {
+    "link_name": "Timeless",
+    "name_ru": "Вне времени",
+    "name_en": "Timeless"
+  },
+  {
+    "link_name": "Breaking_Bad",
+    "name_ru": "Во все тяжкие",
+    "name_en": "Breaking Bad"
+  },
+  {
+    "link_name": "In_the_Flesh",
+    "name_ru": "Во плоти",
+    "name_en": "In the Flesh"
+  },
+  {
+    "link_name": "Homecoming",
+    "name_ru": "Возвращение",
+    "name_en": "Homecoming"
+  },
+  {
+    "link_name": "Leverage",
+    "name_ru": "Воздействие",
+    "name_en": "Leverage"
+  },
+  {
+    "link_name": "Warrior",
+    "name_ru": "Воин",
+    "name_en": "Warrior"
+  },
+  {
+    "link_name": "War_and_Peace",
+    "name_ru": "Война и мир",
+    "name_en": "War &amp; Peace"
+  },
+  {
+    "link_name": "The_War_of_the_Worlds",
+    "name_ru": "Война миров",
+    "name_en": "The War of the Worlds"
+  },
+  {
+    "link_name": "The_Magicians",
+    "name_ru": "Волшебники",
+    "name_en": "The Magicians"
+  },
+  {
+    "link_name": "Texas_Rising",
+    "name_ru": "Восстание Техаса",
+    "name_en": "Texas Rising"
+  },
+  {
+    "link_name": "The_Enemy_Within",
+    "name_ru": "Враг внутри",
+    "name_en": "The Enemy Within"
+  },
+  {
+    "link_name": "Feud",
+    "name_ru": "Вражда",
+    "name_en": "Feud"
+  },
+  {
+    "link_name": "The_Gates",
+    "name_ru": "Врата",
+    "name_en": "The Gates"
+  },
+  {
+    "link_name": "Survivors",
+    "name_ru": "Выжившие",
+    "name_en": "Survivors"
+  },
+  {
+    "link_name": "Genius",
+    "name_ru": "Гений",
+    "name_en": "Genius"
+  },
+  {
+    "link_name": "Heroes",
+    "name_ru": "Герои",
+    "name_en": "Heroes"
+  },
+  {
+    "link_name": "Heroes_Reborn",
+    "name_ru": "Герои: Возрождение",
+    "name_en": "Heroes Reborn"
+  },
+  {
+    "link_name": "The_Head",
+    "name_ru": "Голова",
+    "name_en": "The Head"
+  },
+  {
+    "link_name": "Mob_City",
+    "name_ru": "Город гангстеров",
+    "name_en": "Mob City"
+  },
+  {
+    "link_name": "The_City_and_the_City",
+    "name_ru": "Город и город",
+    "name_en": "The City and the City"
+  },
+  {
+    "link_name": "Magic_City",
+    "name_ru": "Город мечты",
+    "name_en": "Magic City"
+  },
+  {
+    "link_name": "City_on_a_Hill",
+    "name_ru": "Город на холме",
+    "name_en": "City on a Hill"
+  },
+  {
+    "link_name": "Cougar_Town",
+    "name_ru": "Город хищниц",
+    "name_en": "Cougar Town"
+  },
+  {
+    "link_name": "Gotham",
+    "name_ru": "Готэм",
+    "name_en": "Gotham"
+  },
+  {
+    "link_name": "Grand_Hotel",
+    "name_ru": "Гранд отель",
+    "name_en": "Grand Hotel"
+  },
+  {
+    "link_name": "Reverie",
+    "name_ru": "Грезы",
+    "name_en": "Reverie"
+  },
+  {
+    "link_name": "The_Sinner",
+    "name_ru": "Грешница",
+    "name_en": "The Sinner"
+  },
+  {
+    "link_name": "Grimm",
+    "name_ru": "Гримм",
+    "name_en": "Grimm"
+  },
+  {
+    "link_name": "Houdini",
+    "name_ru": "Гудини",
+    "name_en": "Houdini"
+  },
+  {
+    "link_name": "Dexter",
+    "name_ru": "Декстер",
+    "name_en": "Dexter"
+  },
+  {
+    "link_name": "Da_Vincis_Demons",
+    "name_ru": "Демоны да Винчи",
+    "name_en": "Da Vinci's Demons"
+  },
+  {
+    "link_name": "Hand_Of_God",
+    "name_ru": "Десница Божья",
+    "name_en": "Hand of God"
+  },
+  {
+    "link_name": "Tom_Clancys_Jack_Ryan",
+    "name_ru": "Джек Райан",
+    "name_en": "Tom Clancy's Jack Ryan"
+  },
+  {
+    "link_name": "Jekyll",
+    "name_ru": "Джекил",
+    "name_en": "Jekyll"
+  },
+  {
+    "link_name": "Jessica_Jones",
+    "name_ru": "Джессика Джонс",
+    "name_en": "Jessica Jones"
+  },
+  {
+    "link_name": "Jonathan_Strange_and_Mr_Norrell",
+    "name_ru": "Джонатан Стрендж и мистер Норрелл",
+    "name_en": "Jonathan Strange &amp; Mr Norrell"
+  },
+  {
+    "link_name": "Brave_New_World",
+    "name_ru": "Дивный новый мир",
+    "name_en": "Brave New World"
+  },
+  {
+    "link_name": "The_Vampire_Diaries",
+    "name_ru": "Дневники вампира",
+    "name_en": "The Vampire Diaries"
+  },
+  {
+    "link_name": "House_MD",
+    "name_ru": "Доктор Хаус",
+    "name_en": "House M.D."
+  },
+  {
+    "link_name": "Servant",
+    "name_ru": "Дом с прислугой",
+    "name_en": "Servant"
+  },
+  {
+    "link_name": "Dominion",
+    "name_ru": "Доминион",
+    "name_en": "Dominion"
+  },
+  {
+    "link_name": "Dracula",
+    "name_ru": "Дракула",
+    "name_en": "Dracula"
+  },
+  {
+    "link_name": "Dracula_BBC",
+    "name_ru": "Дракула",
+    "name_en": "Dracula"
+  },
+  {
+    "link_name": "Another_Life",
+    "name_ru": "Другая жизнь",
+    "name_en": "Another Life"
+  },
+  {
+    "link_name": "Friends",
+    "name_ru": "Друзья",
+    "name_en": "Friends"
+  },
+  {
+    "link_name": "Fleabag",
+    "name_ru": "Дрянь",
+    "name_en": "Fleabag"
+  },
+  {
+    "link_name": "Jean_Claude_Van_Johnson",
+    "name_ru": "Жан-Клод Ван Джонсон",
+    "name_en": "Jean-Claude Van Johnson"
+  },
+  {
+    "link_name": "Iron_Fist",
+    "name_ru": "Железный кулак",
+    "name_en": "Iron Fist"
+  },
+  {
+    "link_name": "Tin_Man",
+    "name_ru": "Железный человек",
+    "name_en": "Tin Man"
+  },
+  {
+    "link_name": "Human_Target",
+    "name_ru": "Живая мишень",
+    "name_en": "Human Target"
+  },
+  {
+    "link_name": "Fringe",
+    "name_ru": "За гранью",
+    "name_en": "Fringe"
+  },
+  {
+    "link_name": "The_Forgotten",
+    "name_ru": "Забытые",
+    "name_en": "The Forgotten"
+  },
+  {
+    "link_name": "Godless",
+    "name_ru": "Забытые Богом",
+    "name_en": "Godless"
+  },
+  {
+    "link_name": "Stranger_Things",
+    "name_ru": "Загадочные события",
+    "name_en": "Stranger Things"
+  },
+  {
+    "link_name": "Upload",
+    "name_ru": "Загрузка",
+    "name_en": "Upload"
+  },
+  {
+    "link_name": "Taken",
+    "name_ru": "Заложница",
+    "name_en": "Taken"
+  },
+  {
+    "link_name": "A_Young_Doctors_Notebook",
+    "name_ru": "Записки юного врача",
+    "name_en": "A Young Doctor's Notebook"
+  },
+  {
+    "link_name": "Resident_Alien",
+    "name_ru": "Засланец из космоса",
+    "name_en": "Resident Alien"
+  },
+  {
+    "link_name": "Lost_in_Space",
+    "name_ru": "Затерянные в космосе",
+    "name_en": "Lost in Space"
+  },
+  {
+    "link_name": "The_Capture",
+    "name_ru": "Захват",
+    "name_en": "The Capture"
+  },
+  {
+    "link_name": "Charmed",
+    "name_ru": "Зачарованные",
+    "name_en": "Charmed"
+  },
+  {
+    "link_name": "The_Defenders",
+    "name_ru": "Защитники",
+    "name_en": "The Defenders"
+  },
+  {
+    "link_name": "Defending_Jacob",
+    "name_ru": "Защищая Джейкоба",
+    "name_en": "Defending Jacob"
+  },
+  {
+    "link_name": "Star_Wars_The_Clone_Wars",
+    "name_ru": "Звездные войны: Войны клонов",
+    "name_en": "Star Wars: The Clone Wars"
+  },
+  {
+    "link_name": "Star_Wars_Rebels",
+    "name_ru": "Звездные войны: Повстанцы",
+    "name_en": "Star Wars Rebels"
+  },
+  {
+    "link_name": "Star_Wars_Forces_of_Destiny",
+    "name_ru": "Звездные войны: Силы судьбы",
+    "name_en": "Star Wars: Forces of Destiny"
+  },
+  {
+    "link_name": "Star_Wars_Resistance",
+    "name_ru": "Звездные войны: Сопротивление",
+    "name_en": "Star Wars Resistance"
+  },
+  {
+    "link_name": "StarGate_SG-1",
+    "name_ru": "Звездные врата",
+    "name_en": "StarGate SG-1"
+  },
+  {
+    "link_name": "Stargate_Atlantis",
+    "name_ru": "Звездные врата: Атлантида",
+    "name_en": "Stargate: Atlantis"
+  },
+  {
+    "link_name": "Stargate_Universe",
+    "name_ru": "Звездные врата: Вселенная",
+    "name_en": "Stargate: Universe"
+  },
+  {
+    "link_name": "Stargate_Origins",
+    "name_ru": "Звездные врата: Начало",
+    "name_en": "Stargate Origins"
+  },
+  {
+    "link_name": "BattleStar_Galactica",
+    "name_ru": "Звездный крейсер Галактика",
+    "name_en": "BattleStar Galactica"
+  },
+  {
+    "link_name": "Star_Trek_Discovery",
+    "name_ru": "Звездный путь: Дискавери",
+    "name_en": "Star Trek: Discovery"
+  },
+  {
+    "link_name": "Star_Trek_Lower_Decks",
+    "name_ru": "Звездный путь: Нижние палубы",
+    "name_en": "Star Trek: Lower Decks"
+  },
+  {
+    "link_name": "Star_Trek_The_Original_Series",
+    "name_ru": "Звездный путь: Оригинальный",
+    "name_en": "Star Trek: The Original Series"
+  },
+  {
+    "link_name": "Star_Trek_Picard",
+    "name_ru": "Звездный путь: Пикар",
+    "name_en": "Star Trek: Picard"
+  },
+  {
+    "link_name": "Star_Trek_The_Next_Generation",
+    "name_ru": "Звездный путь: Следующее поколение",
+    "name_en": "Star Trek: The Next Generation"
+  },
+  {
+    "link_name": "Star_Trek_Enterprise",
+    "name_ru": "Звездный путь: Энтерпрайз",
+    "name_en": "Star Trek: Enterprise"
+  },
+  {
+    "link_name": "Z_The_Beginning_of_Everything",
+    "name_ru": "Зельда: начало всего",
+    "name_en": "Z: The Beginning of Everything"
+  },
+  {
+    "link_name": "Evil",
+    "name_ru": "Зло",
+    "name_en": "Evil"
+  },
+  {
+    "link_name": "The_Hot_Zone",
+    "name_ru": "Зона заражения",
+    "name_en": "The Hot Zone"
+  },
+  {
+    "link_name": "And_Then_There_Were_None",
+    "name_ru": "И никого не стало",
+    "name_en": "And Then There Were None"
+  },
+  {
+    "link_name": "Game_of_Thrones",
+    "name_ru": "Игра престолов",
+    "name_en": "Game of Thrones"
+  },
+  {
+    "link_name": "The_English_Game",
+    "name_ru": "Игра родом из Англии",
+    "name_en": "The English Game"
+  },
+  {
+    "link_name": "Jericho",
+    "name_ru": "Иерихон",
+    "name_en": "Jericho"
+  },
+  {
+    "link_name": "Chosen",
+    "name_ru": "Избранный",
+    "name_en": "Chosen"
+  },
+  {
+    "link_name": "Outcasts",
+    "name_ru": "Изгои",
+    "name_en": "Outcasts"
+  },
+  {
+    "link_name": "Outcast",
+    "name_ru": "Изгой",
+    "name_en": "Outcast"
+  },
+  {
+    "link_name": "Emerald_City",
+    "name_ru": "Изумрудный город",
+    "name_en": "Emerald City"
+  },
+  {
+    "link_name": "I_Am_the_Night",
+    "name_ru": "Имя мне — ночь",
+    "name_en": "I Am the Night"
+  },
+  {
+    "link_name": "Intelligence",
+    "name_ru": "Искусственный интеллект",
+    "name_en": "Intelligence"
+  },
+  {
+    "link_name": "Ordeal_by_Innocence",
+    "name_ru": "Испытание невиновностью",
+    "name_en": "Ordeal by Innocence"
+  },
+  {
+    "link_name": "Yellowstone",
+    "name_ru": "Йеллоустоун",
+    "name_en": "Yellowstone"
+  },
+  {
+    "link_name": "Hightown",
+    "name_ru": "Кайфтаун",
+    "name_en": "Hightown"
+  },
+  {
+    "link_name": "Creepshow",
+    "name_ru": "Калейдоскоп ужасов",
+    "name_en": "Creepshow"
+  },
+  {
+    "link_name": "Californication",
+    "name_ru": "Калифорникейшн",
+    "name_en": "Californication"
+  },
+  {
+    "link_name": "Camelot",
+    "name_ru": "Камелот",
+    "name_en": "Camelot"
+  },
+  {
+    "link_name": "Caprica",
+    "name_ru": "Каприка ",
+    "name_en": "Caprica"
+  },
+  {
+    "link_name": "The_Punisher",
+    "name_ru": "Каратель",
+    "name_en": "The Punisher"
+  },
+  {
+    "link_name": "Carnival_Row",
+    "name_ru": "Карнивал Роу",
+    "name_en": "Carnival Row"
+  },
+  {
+    "link_name": "Castle",
+    "name_ru": "Касл",
+    "name_en": "Castle"
+  },
+  {
+    "link_name": "Castle_Rock",
+    "name_ru": "Касл-Рок",
+    "name_en": "Castle Rock"
+  },
+  {
+    "link_name": "Quantum_Leap",
+    "name_ru": "Квантовый скачок",
+    "name_en": "Quantum leap"
+  },
+  {
+    "link_name": "Killjoys",
+    "name_ru": "Киллджойс",
+    "name_en": "Killjoys"
+  },
+  {
+    "link_name": "The_Kennedys",
+    "name_ru": "Клан Кеннеди",
+    "name_en": "The Kennedys"
+  },
+  {
+    "link_name": "The_Kennedys_After_Camelot",
+    "name_ru": "Клан Кеннеди: После Камелота",
+    "name_en": "The Kennedys After Camelot"
+  },
+  {
+    "link_name": "Clarice",
+    "name_ru": "Кларисса",
+    "name_en": "Clarice"
+  },
+  {
+    "link_name": "Klondike",
+    "name_ru": "Клондайк",
+    "name_en": "Klondike"
+  },
+  {
+    "link_name": "Locke_and_Key",
+    "name_ru": "Ключи Локков",
+    "name_en": "Locke &amp; Key"
+  },
+  {
+    "link_name": "Devious_Maids",
+    "name_ru": "Коварные горничные",
+    "name_en": "Devious Maids"
+  },
+  {
+    "link_name": "Coyote",
+    "name_ru": "Койот",
+    "name_en": "Coyote"
+  },
+  {
+    "link_name": "Colony",
+    "name_ru": "Колония",
+    "name_en": "Colony"
+  },
+  {
+    "link_name": "Curfew",
+    "name_ru": "Комендантский час",
+    "name_en": "Curfew"
+  },
+  {
+    "link_name": "The_IT_Crowd",
+    "name_ru": "Компьютерщики",
+    "name_en": "The IT Crowd"
+  },
+  {
+    "link_name": "Condor",
+    "name_ru": "Кондор",
+    "name_en": "Condor"
+  },
+  {
+    "link_name": "Childhoods_End",
+    "name_ru": "Конец детства",
+    "name_en": "Childhood's End"
+  },
+  {
+    "link_name": "Constantine",
+    "name_ru": "Константин",
+    "name_en": "Constantine"
+  },
+  {
+    "link_name": "Constantine_City_of_Demons",
+    "name_ru": "Константин: Город демонов",
+    "name_en": "Constantine: City of Demons"
+  },
+  {
+    "link_name": "Touch",
+    "name_ru": "Контакт",
+    "name_en": "Touch"
+  },
+  {
+    "link_name": "Continuum",
+    "name_ru": "Континуум",
+    "name_en": "Continuum"
+  },
+  {
+    "link_name": "Queen_of_the_South",
+    "name_ru": "Королева юга",
+    "name_en": "Queen of the South"
+  },
+  {
+    "link_name": "Kingdom",
+    "name_ru": "Королевство",
+    "name_en": "Kingdom"
+  },
+  {
+    "link_name": "Incorporated",
+    "name_ru": "Корпорация",
+    "name_en": "Incorporated"
+  },
+  {
+    "link_name": "Space_Force",
+    "name_ru": "Космические войска",
+    "name_en": "Space Force"
+  },
+  {
+    "link_name": "Last_Resort",
+    "name_ru": "Крайние меры",
+    "name_en": "Last resort"
+  },
+  {
+    "link_name": "Beauty_and_the_Beast",
+    "name_ru": "Красавица и чудовище",
+    "name_en": "Beauty and the Beast"
+  },
+  {
+    "link_name": "Die_Hart",
+    "name_ru": "Крепкий Харт",
+    "name_en": "Die Hart"
+  },
+  {
+    "link_name": "Scream",
+    "name_ru": "Крик",
+    "name_en": "Scream"
+  },
+  {
+    "link_name": "Krypton",
+    "name_ru": "Криптон",
+    "name_en": "Krypton"
+  },
+  {
+    "link_name": "Blood_Drive",
+    "name_ru": "Кровавая гонка",
+    "name_en": "Blood Drive"
+  },
+  {
+    "link_name": "Blood_of_Zeus",
+    "name_ru": "Кровь Зевса",
+    "name_en": "Blood of Zeus"
+  },
+  {
+    "link_name": "Cult",
+    "name_ru": "Культ",
+    "name_en": "Cult"
+  },
+  {
+    "link_name": "The_Rook",
+    "name_ru": "Ладья",
+    "name_en": "The Rook"
+  },
+  {
+    "link_name": "Legend_of_the_Seeker",
+    "name_ru": "Легенда об Искателе",
+    "name_en": "Legend of the Seeker"
+  },
+  {
+    "link_name": "Legends",
+    "name_ru": "Легенды",
+    "name_en": "Legends"
+  },
+  {
+    "link_name": "Legends_of_Tomorrow",
+    "name_ru": "Легенды завтрашнего дня",
+    "name_en": "Legends of Tomorrow"
+  },
+  {
+    "link_name": "Legion",
+    "name_ru": "Легион",
+    "name_en": "Legion"
+  },
+  {
+    "link_name": "Light_as_a_Feather",
+    "name_ru": "Легкий, как перышко",
+    "name_en": "Light as a Feather"
+  },
+  {
+    "link_name": "Chilling_Adventures_of_Sabrina",
+    "name_ru": "Леденящие душу приключения Сабрины",
+    "name_en": "Chilling Adventures of Sabrina"
+  },
+  {
+    "link_name": "A_Series_of_Unfortunate_Events",
+    "name_ru": "Лемони Сникет: 33 несчастья",
+    "name_en": "A Series of Unfortunate Events"
+  },
+  {
+    "link_name": "Nightflyers",
+    "name_ru": "Летящие сквозь ночь",
+    "name_en": "Nightflyers"
+  },
+  {
+    "link_name": "Vixen",
+    "name_ru": "Лисица",
+    "name_en": "Vixen"
+  },
+  {
+    "link_name": "Moonbase_8",
+    "name_ru": "Лунная база 8",
+    "name_en": "Moonbase 8"
+  },
+  {
+    "link_name": "Better_Call_Saul",
+    "name_ru": "Лучше звоните Солу",
+    "name_en": "Better Call Saul"
+  },
+  {
+    "link_name": "Love_Death_and_Robots",
+    "name_ru": "Любовь, смерть и роботы",
+    "name_en": "Love, Death &amp; Robots"
+  },
+  {
+    "link_name": "Humans",
+    "name_ru": "Люди",
+    "name_en": "Humans"
+  },
+  {
+    "link_name": "Alphas",
+    "name_ru": "Люди Альфа",
+    "name_en": "Alphas"
+  },
+  {
+    "link_name": "The_Tomorrow_People",
+    "name_ru": "Люди будущего",
+    "name_en": "The Tomorrow People"
+  },
+  {
+    "link_name": "Luke_Cage",
+    "name_ru": "Люк Кейдж",
+    "name_en": "Luke Cage"
+  },
+  {
+    "link_name": "Lupin",
+    "name_ru": "Люпен",
+    "name_en": "Lupin"
+  },
+  {
+    "link_name": "Lucifer",
+    "name_ru": "Люцифер",
+    "name_en": "Lucifer"
+  },
+  {
+    "link_name": "Mayans_MC",
+    "name_ru": "Майянцы",
+    "name_en": "Mayans MC"
+  },
+  {
+    "link_name": "McMafia",
+    "name_ru": "МакМафия",
+    "name_en": "McMafia"
+  },
+  {
+    "link_name": "The_Little_Drummer_Girl",
+    "name_ru": "Маленькая барабанщица",
+    "name_en": "The Little Drummer Girl"
+  },
+  {
+    "link_name": "The_Mandalorian",
+    "name_ru": "Мандалорец",
+    "name_en": "The Mandalorian"
+  },
+  {
+    "link_name": "Manifest",
+    "name_ru": "Манифест",
+    "name_en": "Manifest"
+  },
+  {
+    "link_name": "Maniac",
+    "name_ru": "Маньяк",
+    "name_en": "Maniac"
+  },
+  {
+    "link_name": "Marco_Polo",
+    "name_ru": "Марко Поло",
+    "name_en": "Marco Polo"
+  },
+  {
+    "link_name": "The_Escape_Artist",
+    "name_ru": "Мастер побега",
+    "name_en": "The Escape Artist"
+  },
+  {
+    "link_name": "Masters_of_Science_Fiction",
+    "name_ru": "Мастера научной фантастики",
+    "name_en": "Masters of Science Fiction"
+  },
+  {
+    "link_name": "Russian_Doll",
+    "name_ru": "Матрешка",
+    "name_en": "Russian Doll"
+  },
+  {
+    "link_name": "MotherFatherSon",
+    "name_ru": "МатьОтецСын",
+    "name_en": "MotherFatherSon"
+  },
+  {
+    "link_name": "FlashForward",
+    "name_ru": "Мгновения грядущего",
+    "name_en": "FlashForward"
+  },
+  {
+    "link_name": "Dead_of_Summer",
+    "name_ru": "Мертвое лето",
+    "name_en": "Dead of Summer"
+  },
+  {
+    "link_name": "Dead_Like_Me",
+    "name_ru": "Мертвые, как я",
+    "name_en": "Dead Like Me"
+  },
+  {
+    "link_name": "The_Kominsky_Method",
+    "name_ru": "Метод Комински",
+    "name_en": "The Kominsky Method"
+  },
+  {
+    "link_name": "Midnight_Texas",
+    "name_ru": "Миднайт, Техас",
+    "name_en": "Midnight, Texas"
+  },
+  {
+    "link_name": "Billions",
+    "name_ru": "Миллиарды",
+    "name_en": "Billions"
+  },
+  {
+    "link_name": "Mr_Mercedes",
+    "name_ru": "Мистер Мерседес",
+    "name_en": "Mr. Mercedes"
+  },
+  {
+    "link_name": "Mr_Robot",
+    "name_ru": "Мистер Робот",
+    "name_en": "Mr. Robot"
+  },
+  {
+    "link_name": "Mythic_Quest_Raven_is_Banquet",
+    "name_ru": "Мифический квест: Пир ворона",
+    "name_en": "Mythic Quest: Raven's Banquet"
+  },
+  {
+    "link_name": "The_Young_Pope",
+    "name_ru": "Молодой Папа",
+    "name_en": "The Young Pope"
+  },
+  {
+    "link_name": "Young_Rock",
+    "name_ru": "Молодой Скала",
+    "name_en": "Young Rock"
+  },
+  {
+    "link_name": "Warrior_Nun",
+    "name_ru": "Монахиня-воин",
+    "name_en": "Warrior Nun"
+  },
+  {
+    "link_name": "Monsterland",
+    "name_ru": "Монстрлэнд",
+    "name_en": "Monsterland"
+  },
+  {
+    "link_name": "The_Bridge",
+    "name_ru": "Мост",
+    "name_en": "The Bridge"
+  },
+  {
+    "link_name": "Bates_Motel",
+    "name_ru": "Мотель Бейтса",
+    "name_en": "Bates Motel"
+  },
+  {
+    "link_name": "The_Musketeers",
+    "name_ru": "Мушкетеры",
+    "name_en": "The Musketeers"
+  },
+  {
+    "link_name": "Farscape",
+    "name_ru": "На краю Вселенной",
+    "name_en": "Farscape"
+  },
+  {
+    "link_name": "Into_the_Dark",
+    "name_ru": "Навстречу тьме",
+    "name_en": "Into the Dark"
+  },
+  {
+    "link_name": "Legacies",
+    "name_ru": "Наследие",
+    "name_en": "Legacies"
+  },
+  {
+    "link_name": "Z_Nation",
+    "name_ru": "Нация Z",
+    "name_en": "Z Nation"
+  },
+  {
+    "link_name": "The_Innocents",
+    "name_ru": "Невинные",
+    "name_en": "The Innocents"
+  },
+  {
+    "link_name": "Persons_Unknown",
+    "name_ru": "Неизвестные",
+    "name_en": "Persons Unknown"
+  },
+  {
+    "link_name": "Inhumans",
+    "name_ru": "Нелюди",
+    "name_en": "Inhumans"
+  },
+  {
+    "link_name": "Defiance",
+    "name_ru": "Непокорная Земля",
+    "name_en": "Defiance"
+  },
+  {
+    "link_name": "American_Odyssey",
+    "name_ru": "Новая одиссея",
+    "name_en": "American Odyssey"
+  },
+  {
+    "link_name": "The_Rookie",
+    "name_ru": "Новобранец",
+    "name_en": "The Rookie"
+  },
+  {
+    "link_name": "Day_Break",
+    "name_ru": "Новый день",
+    "name_en": "Day Break"
+  },
+  {
+    "link_name": "The_New_Pope",
+    "name_ru": "Новый Папа",
+    "name_en": "The New Pope"
+  },
+  {
+    "link_name": "ZeroZeroZero",
+    "name_ru": "НольНольНоль",
+    "name_en": "ZeroZeroZero"
+  },
+  {
+    "link_name": "NOS4A2",
+    "name_ru": "Носферату",
+    "name_en": "NOS4A2"
+  },
+  {
+    "link_name": "The_Night_Manager",
+    "name_ru": "Ночной администратор",
+    "name_en": "The Night Manager"
+  },
+  {
+    "link_name": "Nancy_Drew",
+    "name_ru": "Нэнси Дрю",
+    "name_en": "Nancy Drew"
+  },
+  {
+    "link_name": "The_OA",
+    "name_ru": "ОА",
+    "name_en": "The OA"
+  },
+  {
+    "link_name": "Limitless",
+    "name_ru": "Области тьмы",
+    "name_en": "Limitless"
+  },
+  {
+    "link_name": "Debris",
+    "name_ru": "Обломки",
+    "name_en": "Debris"
+  },
+  {
+    "link_name": "Lie_to_Me",
+    "name_ru": "Обмани меня",
+    "name_en": "Lie to me"
+  },
+  {
+    "link_name": "Counterpart",
+    "name_ru": "Обратная сторона",
+    "name_en": "Counterpart"
+  },
+  {
+    "link_name": "The_Society",
+    "name_ru": "Общество",
+    "name_en": "The Society"
+  },
+  {
+    "link_name": "The_Gifted",
+    "name_ru": "Одаренные",
+    "name_en": "The Gifted"
+  },
+  {
+    "link_name": "Lone_Gunmen",
+    "name_ru": "Одинокие стрелки",
+    "name_en": "Lone Gunmen"
+  },
+  {
+    "link_name": "Once_Upon_a_Time",
+    "name_ru": "Однажды в сказке",
+    "name_en": "Once Upon a Time"
+  },
+  {
+    "link_name": "Ozark",
+    "name_ru": "Озарк",
+    "name_en": "Ozark"
+  },
+  {
+    "link_name": "Safe",
+    "name_ru": "Омут",
+    "name_en": "Safe"
+  },
+  {
+    "link_name": "Alias_Grace",
+    "name_ru": "Она же Грэйс",
+    "name_en": "Alias Grace"
+  },
+  {
+    "link_name": "The_Orville",
+    "name_ru": "Орвилл",
+    "name_en": "The Orville"
+  },
+  {
+    "link_name": "Origin",
+    "name_ru": "Ориджин",
+    "name_en": "Origin"
+  },
+  {
+    "link_name": "Eagleheart",
+    "name_ru": "Орлиное сердце",
+    "name_en": "Eagleheart"
+  },
+  {
+    "link_name": "Lost",
+    "name_ru": "Остаться в живых",
+    "name_en": "Lost"
+  },
+  {
+    "link_name": "Harpers_Island",
+    "name_ru": "Остров Харпера",
+    "name_en": "Harper's Island"
+  },
+  {
+    "link_name": "Peaky_Blinders",
+    "name_ru": "Острые козырьки",
+    "name_en": "Peaky Blinders"
+  },
+  {
+    "link_name": "From_Dusk_Till_Dawn",
+    "name_ru": "От заката до рассвета",
+    "name_en": "From Dusk Till Dawn"
+  },
+  {
+    "link_name": "Les_Miserables",
+    "name_ru": "Отверженные",
+    "name_en": "Les Miserables"
+  },
+  {
+    "link_name": "A_Discovery_of_Witches",
+    "name_ru": "Открытие ведьм",
+    "name_en": "A Discovery of Witches"
+  },
+  {
+    "link_name": "Desperate_Housewives",
+    "name_ru": "Отчаянные домохозяйки",
+    "name_en": "Desperate Housewives"
+  },
+  {
+    "link_name": "Mindhunter",
+    "name_ru": "Охотник за разумом",
+    "name_en": "Mindhunter"
+  },
+  {
+    "link_name": "Hunters",
+    "name_ru": "Охотники",
+    "name_en": "Hunters"
+  },
+  {
+    "link_name": "The_Fall",
+    "name_ru": "Падение",
+    "name_en": "The Fall"
+  },
+  {
+    "link_name": "Knightfall",
+    "name_ru": "Падение ордена",
+    "name_en": "Knightfall"
+  },
+  {
+    "link_name": "Pandora",
+    "name_ru": "Пандора",
+    "name_en": "Pandora"
+  },
+  {
+    "link_name": "Ghosted",
+    "name_ru": "Паранормальщина",
+    "name_en": "Ghosted"
+  },
+  {
+    "link_name": "Preacher",
+    "name_ru": "Пастырь",
+    "name_en": "Preacher"
+  },
+  {
+    "link_name": "Patrick_Melrose",
+    "name_ru": "Патрик Мелроуз",
+    "name_en": "Patrick Melrose"
+  },
+  {
+    "link_name": "Patriot",
+    "name_ru": "Патриот",
+    "name_en": "Patriot"
+  },
+  {
+    "link_name": "The_Boys",
+    "name_ru": "Пацаны",
+    "name_en": "The Boys"
+  },
+  {
+    "link_name": "Pennyworth",
+    "name_ru": "Пенниуорт",
+    "name_en": "Pennyworth"
+  },
+  {
+    "link_name": "The_Originals",
+    "name_ru": "Первородные",
+    "name_en": "The Originals"
+  },
+  {
+    "link_name": "The_First",
+    "name_ru": "Первые",
+    "name_en": "The First"
+  },
+  {
+    "link_name": "Transporter",
+    "name_ru": "Перевозчик",
+    "name_en": "Transporter"
+  },
+  {
+    "link_name": "The_Crossing",
+    "name_ru": "Переправа",
+    "name_en": "The Crossing"
+  },
+  {
+    "link_name": "The_Passage",
+    "name_ru": "Перерождение",
+    "name_en": "The Passage"
+  },
+  {
+    "link_name": "The_Cape",
+    "name_ru": "Плащ",
+    "name_en": "The Cape"
+  },
+  {
+    "link_name": "Cloak_and_Dagger",
+    "name_ru": "Плащ и Кинжал",
+    "name_en": "Cloak and Dagger"
+  },
+  {
+    "link_name": "Tribes_of_Europa",
+    "name_ru": "Племена Европы",
+    "name_en": "Tribes of Europa"
+  },
+  {
+    "link_name": "Animal_Kingdom",
+    "name_ru": "По волчьим законам",
+    "name_en": "Animal Kingdom"
+  },
+  {
+    "link_name": "Beyond",
+    "name_ru": "По ту сторону",
+    "name_en": "Beyond"
+  },
+  {
+    "link_name": "Prison_Break",
+    "name_ru": "Побег",
+    "name_en": "Prison Break"
+  },
+  {
+    "link_name": "Escape_at_Dannemora",
+    "name_ru": "Побег из Даннеморы",
+    "name_en": "Escape at Dannemora"
+  },
+  {
+    "link_name": "Turn",
+    "name_ru": "Поворот",
+    "name_en": "TURN"
+  },
+  {
+    "link_name": "Under_the_Dome",
+    "name_ru": "Под куполом",
+    "name_en": "Under the Dome"
+  },
+  {
+    "link_name": "Sneaky_Pete",
+    "name_ru": "Подлый Пит",
+    "name_en": "Sneaky Pete"
+  },
+  {
+    "link_name": "Person_of_Interest",
+    "name_ru": "Подозреваемый",
+    "name_en": "Person of Interest"
+  },
+  {
+    "link_name": "Hawaii_Five-0",
+    "name_ru": "Полиция Гавайев",
+    "name_en": "Hawaii Five-0"
+  },
+  {
+    "link_name": "Sex_Education",
+    "name_ru": "Половое воспитание",
+    "name_en": "Sex Education"
+  },
+  {
+    "link_name": "The_Last_Kingdom",
+    "name_ru": "Последнее королевство",
+    "name_en": "The Last Kingdom"
+  },
+  {
+    "link_name": "The_Last_Ship",
+    "name_ru": "Последний корабль",
+    "name_en": "The Last Ship"
+  },
+  {
+    "link_name": "The_Last_Tycoon",
+    "name_ru": "Последний магнат",
+    "name_en": "The Last Tycoon"
+  },
+  {
+    "link_name": "The_Following",
+    "name_ru": "Последователи",
+    "name_en": "The Following"
+  },
+  {
+    "link_name": "Mr_Inbetween",
+    "name_ru": "Посредник",
+    "name_en": "Mr Inbetween"
+  },
+  {
+    "link_name": "Why_Women_Kill",
+    "name_ru": "Почему женщины убивают",
+    "name_en": "Why Women Kill"
+  },
+  {
+    "link_name": "Almost_Human",
+    "name_ru": "Почти человек",
+    "name_en": "Almost Human"
+  },
+  {
+    "link_name": "Truth_Seekers",
+    "name_ru": "Правдоискатели",
+    "name_en": "Truth Seekers"
+  },
+  {
+    "link_name": "Perpetual_Grace_LTD",
+    "name_ru": "Предприятие «Вечная благодать»",
+    "name_en": "Perpetual Grace, LTD"
+  },
+  {
+    "link_name": "Criminal_UK",
+    "name_ru": "Преступник",
+    "name_en": "Criminal: UK"
+  },
+  {
+    "link_name": "The_Haunting_of_Hill_House",
+    "name_ru": "Призраки дома на холме",
+    "name_en": "The Haunting of Hill House"
+  },
+  {
+    "link_name": "The_Haunting_of_Bly_Manor",
+    "name_ru": "Призраки поместья Блай",
+    "name_en": "The Haunting of Bly Manor"
+  },
+  {
+    "link_name": "The_Looming_Tower",
+    "name_ru": "Призрачная башня",
+    "name_en": "The Looming Tower"
+  },
+  {
+    "link_name": "The_Take",
+    "name_ru": "Прикуп",
+    "name_en": "The Take"
+  },
+  {
+    "link_name": "The_Act",
+    "name_ru": "Притворство",
+    "name_en": "The Act"
+  },
+  {
+    "link_name": "Defying_Gravity",
+    "name_ru": "Притяжению вопреки",
+    "name_en": "Defying Gravity"
+  },
+  {
+    "link_name": "Awake",
+    "name_ru": "Пробуждение",
+    "name_en": "Awake"
+  },
+  {
+    "link_name": "Project_Blue_Book ",
+    "name_ru": "Проект «Синяя книга»",
+    "name_en": "Project Blue Book"
+  },
+  {
+    "link_name": "Cursed",
+    "name_ru": "Проклятая",
+    "name_en": "Cursed"
+  },
+  {
+    "link_name": "Damnation",
+    "name_ru": "Проклятые",
+    "name_en": "Damnation"
+  },
+  {
+    "link_name": "The_Lost_Room",
+    "name_ru": "Пропавшая комната",
+    "name_en": "The Lost Room"
+  },
+  {
+    "link_name": "The_Stand",
+    "name_ru": "Противостояние",
+    "name_en": "The Stand"
+  },
+  {
+    "link_name": "The_Good_Lord_Bird ",
+    "name_ru": "Птица доброго господа",
+    "name_en": "The Good Lord Bird"
+  },
+  {
+    "link_name": "Journeyman",
+    "name_ru": "Путешественник",
+    "name_en": "Journeyman"
+  },
+  {
+    "link_name": "The_Path",
+    "name_ru": "Путь",
+    "name_en": "The Path"
+  },
+  {
+    "link_name": "Frequency",
+    "name_ru": "Радиоволна",
+    "name_en": "Frequency"
+  },
+  {
+    "link_name": "Tell_Me_a_Story",
+    "name_ru": "Расскажи мне сказку",
+    "name_en": "Tell Me a Story"
+  },
+  {
+    "link_name": "The_Handmaids_Tale",
+    "name_ru": "Рассказ служанки",
+    "name_en": "The Handmaid's Tale"
+  },
+  {
+    "link_name": "Tales_from_the_Loop",
+    "name_ru": "Рассказы из Петли",
+    "name_en": "Tales from the Loop"
+  },
+  {
+    "link_name": "What_We_Do_in_the_Shadow",
+    "name_ru": "Реальные упыри",
+    "name_en": "What We Do in the Shadows"
+  },
+  {
+    "link_name": "Rosemarys_Baby",
+    "name_ru": "Ребенок Розмари",
+    "name_en": "Rosemary's Baby"
+  },
+  {
+    "link_name": "Revolution",
+    "name_ru": "Революция",
+    "name_en": "Revolution"
+  },
+  {
+    "link_name": "The_River",
+    "name_ru": "Река",
+    "name_en": "The River"
+  },
+  {
+    "link_name": "Riverdale",
+    "name_ru": "Ривердэйл",
+    "name_en": "Riverdale"
+  },
+  {
+    "link_name": "Rome",
+    "name_ru": "Рим",
+    "name_en": "Rome"
+  },
+  {
+    "link_name": "Extant",
+    "name_ru": "Род человеческий",
+    "name_en": "Extant"
+  },
+  {
+    "link_name": "Homeland",
+    "name_ru": "Родина",
+    "name_en": "Homeland"
+  },
+  {
+    "link_name": "The_Making_of_the_Mob",
+    "name_ru": "Рождение мафии",
+    "name_en": "The Making of the Mob"
+  },
+  {
+    "link_name": "A_Christmas_Carol",
+    "name_ru": "Рождественская песнь",
+    "name_en": "A Christmas Carol"
+  },
+  {
+    "link_name": "Roswell_New_Mexico",
+    "name_ru": "Розуэлл, Нью-Мексико",
+    "name_en": "Roswell, New Mexico"
+  },
+  {
+    "link_name": "Doom_Patrol",
+    "name_ru": "Роковой патруль",
+    "name_en": "Doom Patrol"
+  },
+  {
+    "link_name": "Romulus",
+    "name_ru": "Ромул",
+    "name_en": "Romulus"
+  },
+  {
+    "link_name": "Salem",
+    "name_ru": "Салем",
+    "name_en": "Salem"
+  },
+  {
+    "link_name": "Most_Dangerous_Game",
+    "name_ru": "Самая опасная игра",
+    "name_en": "Most Dangerous Game"
+  },
+  {
+    "link_name": "Supernatural",
+    "name_ru": "Сверхъестественное",
+    "name_en": "Supernatural"
+  },
+  {
+    "link_name": "Supernatural_The_Animation",
+    "name_ru": "Сверхъестественное: Аниме",
+    "name_en": "Supernatural: The Animation"
+  },
+  {
+    "link_name": "Firefly",
+    "name_ru": "Светлячок",
+    "name_en": "Firefly"
+  },
+  {
+    "link_name": "The_Witness_for_the_Prosecution",
+    "name_ru": "Свидетель обвинения",
+    "name_en": "The Witness for the Prosecution"
+  },
+  {
+    "link_name": "The_X-Files",
+    "name_ru": "Секретные материалы",
+    "name_en": "The X-Files"
+  },
+  {
+    "link_name": "Chambers",
+    "name_ru": "Сердце",
+    "name_en": "Chambers"
+  },
+  {
+    "link_name": "Ratched",
+    "name_ru": "Сестра Рэтчед",
+    "name_en": "Ratched"
+  },
+  {
+    "link_name": "Siren",
+    "name_ru": "Сирена",
+    "name_en": "Siren"
+  },
+  {
+    "link_name": "Snowpiercer",
+    "name_ru": "Сквозь снег",
+    "name_en": "Snowpiercer"
+  },
+  {
+    "link_name": "Blindspot",
+    "name_ru": "Слепое пятно",
+    "name_en": "Blindspot"
+  },
+  {
+    "link_name": "Too_Old_to_Die_Young",
+    "name_ru": "Слишком стар, чтобы умереть молодым",
+    "name_en": "Too Old to Die Young"
+  },
+  {
+    "link_name": "Mortal_Kombat_Legacy",
+    "name_ru": "Смертельная битва: Наследие",
+    "name_en": "Mortal Kombat: Legacy"
+  },
+  {
+    "link_name": "Lethal_Weapon",
+    "name_ru": "Смертельное оружие",
+    "name_en": "Lethal Weapon"
+  },
+  {
+    "link_name": "The_Event",
+    "name_ru": "Событие",
+    "name_en": "The Event"
+  },
+  {
+    "link_name": "Sleepy_Hollow",
+    "name_ru": "Сонная лощина",
+    "name_en": "Sleepy Hollow"
+  },
+  {
+    "link_name": "Daredevil",
+    "name_ru": "Сорвиголова",
+    "name_en": "Daredevil"
+  },
+  {
+    "link_name": "The_100",
+    "name_ru": "Сотня",
+    "name_en": "The 100"
+  },
+  {
+    "link_name": "Falling_Skies",
+    "name_ru": "Сошедшие с небес",
+    "name_en": "Falling Skies"
+  },
+  {
+    "link_name": "Spartacus_Gods_of_the_Arena",
+    "name_ru": "Спартак: Боги арены",
+    "name_en": "Spartacus: Gods of the Arena"
+  },
+  {
+    "link_name": "Spartacus_War_of_the_Damned",
+    "name_ru": "Спартак: Война проклятых",
+    "name_en": "Spartacus: War of the Damned"
+  },
+  {
+    "link_name": "Spartacus_Blood_and_Sand",
+    "name_ru": "Спартак: Кровь и песок",
+    "name_en": "Spartacus: Blood and Sand"
+  },
+  {
+    "link_name": "Spartacus_Vengeance",
+    "name_ru": "Спартак: Месть",
+    "name_en": "Spartacus: Vengeance"
+  },
+  {
+    "link_name": "Helix",
+    "name_ru": "Спираль",
+    "name_en": "Helix"
+  },
+  {
+    "link_name": "Tin_Star",
+    "name_ru": "Стальная звезда",
+    "name_en": "Tin Star"
+  },
+  {
+    "link_name": "Stumptown",
+    "name_ru": "Стамптаун",
+    "name_en": "Stumptown"
+  },
+  {
+    "link_name": "Stargirl",
+    "name_ru": "Старгёрл",
+    "name_en": "Stargirl"
+  },
+  {
+    "link_name": "StartUp",
+    "name_ru": "Стартап",
+    "name_en": "StartUp"
+  },
+  {
+    "link_name": "The_Booth_at_the_End",
+    "name_ru": "Столик в углу",
+    "name_en": "The Booth at the End"
+  },
+  {
+    "link_name": "The_Pillars_of_the_Earth",
+    "name_ru": "Столпы Земли",
+    "name_en": "The Pillars of the Earth"
+  },
+  {
+    "link_name": "The_Watch",
+    "name_ru": "Стража",
+    "name_en": "The Watch"
+  },
+  {
+    "link_name": "Strike",
+    "name_ru": "Страйк",
+    "name_en": "Strike"
+  },
+  {
+    "link_name": "Tidelands",
+    "name_ru": "Страна приливов",
+    "name_en": "Tidelands"
+  },
+  {
+    "link_name": "Strange_Angel",
+    "name_ru": "Странный ангел",
+    "name_en": "Strange Angel"
+  },
+  {
+    "link_name": "Two_Sentence_Horror_Stories",
+    "name_ru": "Страшные истории в двух предложениях",
+    "name_en": "Two Sentence Horror Stories"
+  },
+  {
+    "link_name": "Arrow",
+    "name_ru": "Стрела",
+    "name_en": "Arrow"
+  },
+  {
+    "link_name": "Shooter",
+    "name_ru": "Стрелок",
+    "name_en": "Shooter"
+  },
+  {
+    "link_name": "The_Flight_Attendant",
+    "name_ru": "Стюардесса",
+    "name_en": "The Flight Attendant"
+  },
+  {
+    "link_name": "The_Purge",
+    "name_ru": "Судная ночь",
+    "name_en": "The Purge"
+  },
+  {
+    "link_name": "Fate_The_Winx_Saga",
+    "name_ru": "Судьба: сага Винкс",
+    "name_en": "Fate: The Winx Saga"
+  },
+  {
+    "link_name": "Supergirl",
+    "name_ru": "Супергёрл",
+    "name_en": "Supergirl"
+  },
+  {
+    "link_name": "Superman_and_Lois",
+    "name_ru": "Супермен и Лоис",
+    "name_en": "Superman &amp; Lois"
+  },
+  {
+    "link_name": "The_Son",
+    "name_ru": "Сын",
+    "name_en": "The Son"
+  },
+  {
+    "link_name": "Sons_of_Anarchy",
+    "name_ru": "Сыны анархии",
+    "name_en": "Sons of Anarchy"
+  },
+  {
+    "link_name": "Taboo",
+    "name_ru": "Табу",
+    "name_en": "Taboo"
+  },
+  {
+    "link_name": "The_Secret_Circle",
+    "name_ru": "Тайный круг",
+    "name_en": "The Secret Circle"
+  },
+  {
+    "link_name": "The_Order",
+    "name_ru": "Тайный орден",
+    "name_en": "The Order"
+  },
+  {
+    "link_name": "Twin_Peaks",
+    "name_ru": "Твин Пикс",
+    "name_en": "Twin Peaks"
+  },
+  {
+    "link_name": "Bodyguard",
+    "name_ru": "Телохранитель",
+    "name_en": "Bodyguard"
+  },
+  {
+    "link_name": "Dark_Matter",
+    "name_ru": "Темная материя",
+    "name_en": "Dark Matter"
+  },
+  {
+    "link_name": "His_Dark_Materials",
+    "name_ru": "Темные начала",
+    "name_en": "His Dark Materials"
+  },
+  {
+    "link_name": "The_Sarah_Connor_Chronicles",
+    "name_ru": "Терминатор: Хроники Сары Коннор",
+    "name_en": "The Sarah Connor Chronicles"
+  },
+  {
+    "link_name": "Terra_Nova",
+    "name_ru": "Терра Нова",
+    "name_en": "Terra Nova"
+  },
+  {
+    "link_name": "The_Terror",
+    "name_ru": "Террор",
+    "name_en": "The Terror"
+  },
+  {
+    "link_name": "Titans",
+    "name_ru": "Титаны",
+    "name_en": "Titans"
+  },
+  {
+    "link_name": "Waco",
+    "name_ru": "Трагедия в Уэйко",
+    "name_en": "Waco"
+  },
+  {
+    "link_name": "Transformers_War_for_Cybertron ",
+    "name_ru": "Трансформеры: Битва за Кибертрон",
+    "name_en": "Transformers: War for Cybertron"
+  },
+  {
+    "link_name": "Trust",
+    "name_ru": "Траст",
+    "name_en": "Trust"
+  },
+  {
+    "link_name": "Treadstone",
+    "name_ru": "Тредстоун",
+    "name_en": "Treadstone"
+  },
+  {
+    "link_name": "Shut_Eye",
+    "name_ru": "Третий глаз",
+    "name_en": "Shut Eye"
+  },
+  {
+    "link_name": "The_Mist",
+    "name_ru": "Туман",
+    "name_en": "The Mist"
+  },
+  {
+    "link_name": "YOU",
+    "name_ru": "Ты",
+    "name_en": "YOU"
+  },
+  {
+    "link_name": "Dark",
+    "name_ru": "Тьма",
+    "name_en": "Dark"
+  },
+  {
+    "link_name": "The_Tudors",
+    "name_ru": "Тюдоры",
+    "name_en": "The Tudors"
+  },
+  {
+    "link_name": "Killing_Eve",
+    "name_ru": "Убивая Еву",
+    "name_en": "Killing Eve"
+  },
+  {
+    "link_name": "The_ABC_Murders",
+    "name_ru": "Убийства по алфавиту",
+    "name_en": "The ABC Murders"
+  },
+  {
+    "link_name": "The_Killing",
+    "name_ru": "Убийство",
+    "name_en": "The Killing"
+  },
+  {
+    "link_name": "The_Prisoner",
+    "name_ru": "Узник",
+    "name_en": "The Prisoner"
+  },
+  {
+    "link_name": "Will",
+    "name_ru": "Уилл",
+    "name_en": "Will"
+  },
+  {
+    "link_name": "Wilfred",
+    "name_ru": "Уилфред",
+    "name_en": "Wilfred"
+  },
+  {
+    "link_name": "Bitten",
+    "name_ru": "Укушенная",
+    "name_en": "Bitten"
+  },
+  {
+    "link_name": "Catch_22",
+    "name_ru": "Уловка-22",
+    "name_en": "Catch-22"
+  },
+  {
+    "link_name": "I-m_Dying_Up_Here",
+    "name_ru": "Умираю со смеху",
+    "name_en": "I'm Dying Up Here"
+  },
+  {
+    "link_name": "Walker",
+    "name_ru": "Уокер",
+    "name_en": "Walker"
+  },
+  {
+    "link_name": "Anger_Management",
+    "name_ru": "Управление гневом",
+    "name_en": "Anger Management"
+  },
+  {
+    "link_name": "Utopia",
+    "name_ru": "Утопия",
+    "name_en": "Utopia"
+  },
+  {
+    "link_name": "Wayward_Pines",
+    "name_ru": "Уэйуорд Пайнс",
+    "name_en": "Wayward Pines"
+  },
+  {
+    "link_name": "Fargo",
+    "name_ru": "Фарго",
+    "name_en": "Fargo"
+  },
+  {
+    "link_name": "Fleming_The_Man_Who_Would_Be_Bond",
+    "name_ru": "Флеминг: человек, который хотел стать Бондом",
+    "name_en": "Fleming: The Man Who Would Be Bond"
+  },
+  {
+    "link_name": "The_Flash",
+    "name_ru": "Флэш",
+    "name_en": "The Flash"
+  },
+  {
+    "link_name": "Fosse_Verdon",
+    "name_ru": "Фосси/Вердон",
+    "name_en": "Fosse/Verdon"
+  },
+  {
+    "link_name": "La_Revolution",
+    "name_ru": "Французская революция",
+    "name_en": "La Révolution"
+  },
+  {
+    "link_name": "Futurama",
+    "name_ru": "Футурама",
+    "name_en": "Futurama"
+  },
+  {
+    "link_name": "Hanna",
+    "name_ru": "Ханна",
+    "name_en": "Hanna"
+  },
+  {
+    "link_name": "Helstrom",
+    "name_ru": "Хелстром",
+    "name_en": "Helstrom"
+  },
+  {
+    "link_name": "Hemlock_Grove",
+    "name_ru": "Хемлок Гроув",
+    "name_en": "Hemlock Grove"
+  },
+  {
+    "link_name": "The_Queens_Gambit",
+    "name_ru": "Ход королевы",
+    "name_en": "The Queen's Gambit"
+  },
+  {
+    "link_name": "The_Walking_Dead",
+    "name_ru": "Ходячие мертвецы",
+    "name_en": "The Walking Dead"
+  },
+  {
+    "link_name": "The_Walking_Dead_World_Beyond",
+    "name_ru": "Ходячие мертвецы: Мир за гранью",
+    "name_en": "The Walking Dead: World Beyond"
+  },
+  {
+    "link_name": "Dirk_Gentlys_Holistic_Detective_Agency",
+    "name_ru": "Холистическое детективное агентство Дирка Джентли",
+    "name_en": "Dirk Gently's Holistic Detective Agency"
+  },
+  {
+    "link_name": "The_Good_Doctor",
+    "name_ru": "Хороший доктор",
+    "name_en": "The Good Doctor"
+  },
+  {
+    "link_name": "Warehouse_13",
+    "name_ru": "Хранилище 13",
+    "name_en": "Warehouse 13"
+  },
+  {
+    "link_name": "The_Frankenstein_Chronicles",
+    "name_ru": "Хроники Франкенштейна",
+    "name_en": "The Frankenstein Chronicles"
+  },
+  {
+    "link_name": "The_Shannara_Chronicles",
+    "name_ru": "Хроники Шаннары",
+    "name_en": "The Shannara Chronicles"
+  },
+  {
+    "link_name": "Happy",
+    "name_ru": "Хэппи!",
+    "name_en": "Happy!"
+  },
+  {
+    "link_name": "Future_Man",
+    "name_ru": "Человек будущего",
+    "name_en": "Future Man"
+  },
+  {
+    "link_name": "The_Man_in_the_High_Castle",
+    "name_ru": "Человек в высоком замке",
+    "name_en": "The Man in the High Castle"
+  },
+  {
+    "link_name": "Crossbones",
+    "name_ru": "Череп и кости",
+    "name_en": "Crossbones"
+  },
+  {
+    "link_name": "Black_Lightning",
+    "name_ru": "Черная молния",
+    "name_en": "Black Lightning"
+  },
+  {
+    "link_name": "Black_Mirror",
+    "name_ru": "Черное зеркало",
+    "name_en": "Black Mirror"
+  },
+  {
+    "link_name": "Black_Summer",
+    "name_ru": "Черное лето",
+    "name_en": "Black Summer"
+  },
+  {
+    "link_name": "Black_Sails",
+    "name_ru": "Черные паруса",
+    "name_en": "Black Sails"
+  },
+  {
+    "link_name": "Black_Narcissus",
+    "name_ru": "Черный нарцисс",
+    "name_en": "Black Narcissus"
+  },
+  {
+    "link_name": "The_Blacklist",
+    "name_ru": "Черный список",
+    "name_en": "The Blacklist"
+  },
+  {
+    "link_name": "The_Blacklist_Redemption",
+    "name_ru": "Черный список: Искупление",
+    "name_en": "The Blacklist: Redemption"
+  },
+  {
+    "link_name": "Wonderfalls",
+    "name_ru": "Чудопад",
+    "name_en": "Wonderfalls"
+  },
+  {
+    "link_name": "Miracle_Workers",
+    "name_ru": "Чудотворцы",
+    "name_en": "Miracle Workers"
+  },
+  {
+    "link_name": "Outsiders",
+    "name_ru": "Чужаки",
+    "name_en": "Outsiders"
+  },
+  {
+    "link_name": "Alien_40th_Anniversary_Short_Films",
+    "name_ru": "Чужой: Антология",
+    "name_en": "Alien 40th Anniversary Short Films"
+  },
+  {
+    "link_name": "Endgame",
+    "name_ru": "Шах и мат",
+    "name_en": "Endgame"
+  },
+  {
+    "link_name": "The_Whispers",
+    "name_ru": "Шепот",
+    "name_en": "The Whispers"
+  },
+  {
+    "link_name": "Sherlock",
+    "name_ru": "Шерлок",
+    "name_en": "Sherlock"
+  },
+  {
+    "link_name": "Six",
+    "name_ru": "Шестой отряд",
+    "name_en": "Six"
+  },
+  {
+    "link_name": "The_Spy",
+    "name_ru": "Шпион",
+    "name_en": "The Spy"
+  },
+  {
+    "link_name": "The_Strain",
+    "name_ru": "Штамм",
+    "name_en": "The Strain"
+  },
+  {
+    "link_name": "Kidding",
+    "name_ru": "Шучу",
+    "name_en": "Kidding"
+  },
+  {
+    "link_name": "Eureka",
+    "name_ru": "Эврика",
+    "name_en": "Eureka"
+  },
+  {
+    "link_name": "The_Expanse",
+    "name_ru": "Экспансия",
+    "name_en": "The Expanse"
+  },
+  {
+    "link_name": "Philip_K_Dicks_Electric_Dreams",
+    "name_ru": "Электрические сны Филипа К. Дика",
+    "name_en": "Philip K. Dick's Electric Dreams"
+  },
+  {
+    "link_name": "Elementary",
+    "name_ru": "Элементарно",
+    "name_en": "Elementary"
+  },
+  {
+    "link_name": "Emily_in_Paris",
+    "name_ru": "Эмили в Париже",
+    "name_en": "Emily in Paris"
+  },
+  {
+    "link_name": "This_Is_Us",
+    "name_ru": "Это мы",
+    "name_en": "This Is Us"
+  }
+]
